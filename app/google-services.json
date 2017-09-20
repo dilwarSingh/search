@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345029755590",
+    "firebase_url": "https://crasher-83c2a.firebaseio.com",
+    "project_id": "crasher-83c2a",
+    "storage_bucket": "crasher-83c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345029755590:android:0e3256f0a9b658d5",
+        "android_client_info": {
+          "package_name": "koi.com.crasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345029755590-eq4aq9iv9l3nsueo20t2es07ltqurfmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "koi.com.crasher",
+            "certificate_hash": "1e1e7c2c7631215f51bcb4c032319d894d6a17d9"
+          }
+        },
+        {
+          "client_id": "345029755590-6bqjfiulhbclrbsqgti02m8a2e7r3fkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWMU7hqVTIkW7dC-nY_eMUN5ranxocL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345029755590-6bqjfiulhbclrbsqgti02m8a2e7r3fkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
