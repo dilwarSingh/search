@@ -23,7 +23,7 @@ import java.util.List;
 
 public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MyViewHolder> implements Filterable {
 
-    private List<Movie> moviesList , allMovieList;
+    private List<Movie> moviesList, allMovieList;
 
     dataFilter mContactsFilter;
 
